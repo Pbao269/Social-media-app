@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://ynptlsyyxenuktrcysjj.supabase.co';
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlucHRsc3l5eGVudWt0cmN5c2pqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjkzODgwOTYsImV4cCI6MjA0NDk2NDA5Nn0.LShehBorHLK6bkoPVzvAMOGXbJ6eX3oxtXWnM3DAXlU';
